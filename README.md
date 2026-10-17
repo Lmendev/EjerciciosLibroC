@@ -1,3 +1,5 @@
+> Ejercicios del grupo de estudio de C (2013). Mis soluciones están en [`Luis_Mendoza/`](Luis_Mendoza/).
+
 # Ejercicios Libro C
 
 Este repositorio se usará para subir los códigos resolución de ejercicios
